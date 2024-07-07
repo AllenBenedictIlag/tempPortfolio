@@ -1,0 +1,8 @@
+words you don't know
+
+justify-content
+padding
+margin
+display
+align-items
+text-align
